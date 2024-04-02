@@ -5,39 +5,36 @@
 1. Fix the bugs in below snippet
 
 ```HTML
-    <html lang="en">
+<html lang="en">
     <head>
-        <title>Document
-            <body>
-                guvi
-        </title>
+        <title>Document guvi </title>
     </head>
-    <div>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    <body>
         <div>
-            <div>
-                Guvi Geek Network
-            </div>
-        </body>
-    </html>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        </div>
+        <div>
+            Guvi Geek Network
+        </div>
+    </body>
+</html>
 ```
 2. Try the below one
 
 ```HTML
 <html lang="en">
     <head>
-        <title>Document
-            <body>
-                guvi
+        <title>Document guvi</title>
     </head>
-    <div>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    <body>
         <div>
-            <div>
-                Guvi Geek Network
-            </div>
-        </body>
-    </html>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        </div>
+        <div>
+            Guvi Geek Network
+        </div>
+    </body>
+</html>
 ```
 
 ---
